@@ -1,0 +1,8 @@
+rootProject.name = 'spring-cloud-msa'
+
+// Service registry
+include 'eureka'
+
+// API Gateway
+include 'zuul'
+
